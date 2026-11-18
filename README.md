@@ -1,28 +1,72 @@
-# Hi there, I'm Muhammad Lamido Muhammad 👋
+# Hi there, I'm Muhammad Lamido 👋
 
-I am a **Software Engineering Intern** at **AUA Technologies**, specializing in **Modern Full Stack & Cloud Development**. I am refining my skills under the mentorship of industry experts to transition from functional coding to building **secure, scalable, and cloud-native** applications.
+### Junior Cloud & DevOps Engineer | AWS | Linux | Docker | Kubernetes | CI/CD
 
-### 🏢 Current Professional Context
-* 🎓 **Internship:** Selected for the World Bank/CPN (**IDEAS Project**) sponsored internship at AUA Technologies.
-* ☁️ **Cloud Focus:** Mastering modern Full Stack development integrated with **Cloud Infrastructure**.
-* 🛠️ **Focus:** Mastering professional best practices in Node.js, React, and DevOps.
-* 🧪 **Code Quality:** Shifting towards a "Test-First" mentality using Vitest and Supertest.
+I'm an early-career Cloud and DevOps practitioner with a Software Engineering background and hands-on experience building cloud infrastructure, automating workflows, and deploying containerized applications.
 
-### 🛠️ Technical Toolkit
+I enjoy working with cloud technologies, Linux systems, infrastructure automation, and cloud-native engineering to build reliable and scalable solutions.
+
+🌐 **Portfolio:** https://lamido-portfolio.vercel.app/
+
+📄 **[View My Resume](https://lamido-portfolio.vercel.app/Muhammad_Lamido_Cloud_DevOps_Resume.pdf)**
+
+### ☁️ Technical Skills
 
 | Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Redux Toolkit, React Query, Context API |
-| **Backend** | Node.js, Express, MongoDB, REST APIs |
-| **Cloud & DevOps** | **AWS/Google Cloud**, Docker, Render, CI/CD Pipelines |
-| **Testing** | Vitest, Supertest, Playwright (E2E) |
-| **Security** | JWT Token Authentication, User Administration |
+|---|---|
+| **Cloud Computing** | AWS EC2, S3, Lambda, VPC, CloudFormation, CloudFront, IAM |
+| **Containers & Orchestration** | Docker, Kubernetes, Red Hat OpenShift |
+| **CI/CD & Automation** | GitHub Actions, CI workflows, automated testing |
+| **Linux & Scripting** | Linux, Bash, Cron, Backup Automation |
+| **Networking** | TCP/IP, DNS, Subnetting, Routing |
+| **Programming** | Python, JavaScript, Node.js, React |
+| **Databases & APIs** | MongoDB, REST APIs |
 
-### 🔭 Currently Working On
-* 🚀 **Cloud-Native Solutions:** Bridging the gap between local code and scalable cloud deployments.
-* 🌱 **Advanced State Management:** Implementing Flux-architecture and Redux for complex global states.
-* 🔒 **Backend Integrity:** Strengthening API security through custom middleware and robust error handling.
+### 🚀 Featured Projects
 
-### 💬 Let's Connect
-* 💼 **LinkedIn:** [muhammad-lamido](https://www.linkedin.com/in/muhammad-lamido-6b4550254)
-* 📧 **Email:** [lamido361@gmail.com](mailto:lamido361@gmail.com)
+- **[AWS Resilient Web Fleet](https://github.com/Lamidogidado/aws-resilient-web-fleet)** – Designed resilient AWS infrastructure using CloudFormation, VPC, Application Load Balancer, and EC2 Auto Scaling.
+- **[Serverless Image Processing Pipeline](https://github.com/Lamidogidado/Aws-Lambda-S3-image-resizer)** – Built an event-driven image processing workflow using AWS Lambda, S3, and Python.
+- **[IBM Cloud-Native Engineering Labs](https://github.com/Lamidogidado/IBM-LAB-CC201)** – Practised containerization and orchestration using Docker, Kubernetes, and OpenShift.
+- **[Automated CI/CD Pipeline](https://github.com/Lamidogidado/fs-pokedex)** – Developed GitHub Actions workflows for code validation, testing, and health checks.
+- **[Linux Incremental Backup Engine](https://github.com/Lamidogidado/bash-backup-project)** – Automated scheduled Linux backups using Bash and Cron.
+- **[AWS Cloud Engineering Assistant](https://github.com/Lamidogidado/AWS-Cloud-Engineering-Assistant-PartyRock)** – Built an AI-assisted cloud engineering companion using Amazon Bedrock and PartyRock.
+
+### 🎓 Education & Professional Development
+
+- **B.Sc. Software Engineering** – Bayero University, Kano.
+- **Cloud Engineering Training** – Schull.io.
+- **Software Engineering Training** – IDEAS / World Bank Programme.
+- **Computer Networking Training** – ITF SUPA ICT Programme.
+- **AWS Cloud Support Associate Professional Certificate** – Coursera.
+- **Kubernetes & Cloud Native Essentials** – Linux Foundation.
+- **Introduction to Linux, Containers & OpenShift** – IBM.
+
+### 🌱 Currently Focusing On
+
+- Deepening AWS cloud infrastructure and architecture knowledge.
+- Strengthening Linux administration and Bash automation.
+- Improving Kubernetes and container orchestration skills.
+- Building reliable CI/CD pipelines and deployment workflows.
+- Exploring cloud security, monitoring, and infrastructure reliability.
+
+### 💼 Career Interests
+
+Open to opportunities in:
+
+- Junior Cloud Engineering
+- Cloud Support Engineering
+- Junior DevOps Engineering
+- Cloud Operations
+- Infrastructure Engineering
+- Linux / Systems Administration
+
+### 🤝 Let's Connect
+
+- **LinkedIn:** [Muhammad Lamido](https://www.linkedin.com/in/muhammad-lamido-6b4550254)
+- **GitHub:** [@Lamidogidado](https://github.com/Lamidogidado)
+- **Portfolio:** https://lamido-portfolio.vercel.app/
+- **Email:** lamido361@gmail.com
+
+---
+
+*Building, learning, and growing in Cloud Engineering and DevOps.*
